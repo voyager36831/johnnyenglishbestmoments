@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(0, 0, 0, 0.377);
+}
+
+#name > h1 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+#name > h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+#main > div > img {
+    width: 350px;
+    height: 250px;
+    border: 10px solid white;
+}
+
+#main > div {
+    display: inline-block;
+    padding: 40px;
+}
+
+.buttonstyle {
+    width: 100px;
+    height: 40px;
+    color:white;
+    background-color: black;
+}
